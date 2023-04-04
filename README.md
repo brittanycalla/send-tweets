@@ -4,7 +4,8 @@
 
 This is a simple program for sending tweets using the Twitter API. It was made using GitHub's Copilot!
 
-![A screen recording showing a user typing comments into VSCode and GitHub Copilot making suggestions](https://i.ibb.co/d47VWfD/copilot-tweet-screen-demo.webp)
+
+![A screen recording showing a user typing comments into VSCode and GitHub Copilot making suggestions](https://drive.google.com/uc?export=view&id=12g-GPZzNyEh5dY0TFUxtZL6gCoHsq9Io)
 
 After attending [Level Up with GitHub Copilot](https://learning.oreilly.com/live-events/level-up-with-github-copilot/0636920090759/0636920090758) led by Rizel Scarlett, I decided to use Copilot to create a simple program to send tweets from the command line.
 
