@@ -14,7 +14,9 @@ After attending [Level Up with GitHub Copilot](https://learning.oreilly.com/live
 **Tech used:** Python, [Twitter API](https://developer.twitter.com/en/docs/twitter-api), [GitHub Copilot](https://github.com/features/copilot)
 
 ## Setup
-**Twitter API**: If you've never used the Twitter API, you'll need to sign up for a Basic (free) [Developer Account](https://developer.twitter.com/en/portal/products/free). 
+***Twitter API:***
+
+If you've never used the Twitter API, you'll need to sign up for a Basic (free) [Developer Account](https://developer.twitter.com/en/portal/products/free). 
 After that, go into your app's settings (a default project and app are created for you when you signup).
 
 ![A screenshot showing where to change Twitter API app settings](https://i.ibb.co/yY6tTx0/Screen-Shot-2023-04-04-at-3-43-49-PM.png)
@@ -29,7 +31,10 @@ If you have any trouble, I found this writeup very helpful: [How to get started 
 
 Now we have the permissions necessary to send tweets! 
 Grab your Consumer Key and Secret and generate an Access Token and Secret by going to your app's keys and tokens tab.
+
 ![A screenshot showing where to go to access your Twitter app's keys and tokens](https://i.ibb.co/VWD5Z7L/Screen-Shot-2023-04-04-at-4-00-37-PM.png)
+
+**Updating the config file**: 
 
 You'll need to add your Twitter API Consumer keys and Access Tokens to the [config.py](https://github.com/brittanycalla/send-tweets/blob/main/config.py) file.
 
@@ -44,7 +49,5 @@ In your terminal run
 ```
 python3 sendTweet.py
 ```
-
-
 
 ***Happy tweeting!***
